@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ELmkZcbyC83eEqbabyA21RyubhYkxsRnh9KP1jMPf7WVmWw9yYs2b2lWH9EPwKU7jfUAm+S9f7wLjaoBzWH8WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marko PC\\Desktop\\TVSkocko_72_2018\\TVSkocko_72_2018\\TVSkocko_72_2018.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marko PC\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.9\\microsoft.data.sqlite.core.5.0.9.nupkg.sha512",
+    "C:\\Users\\Marko PC\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Marko PC\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\Marko PC\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Marko PC\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\Marko PC\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

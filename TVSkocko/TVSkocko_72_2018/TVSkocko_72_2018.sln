@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVSkocko_72_2018", "TVSkocko_72_2018.csproj", "{18221C13-C2E3-485C-90D0-81564E27C01B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18221C13-C2E3-485C-90D0-81564E27C01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18221C13-C2E3-485C-90D0-81564E27C01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18221C13-C2E3-485C-90D0-81564E27C01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18221C13-C2E3-485C-90D0-81564E27C01B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C90D4A9C-6363-4C0A-A54D-97876C57D3F3}
+	EndGlobalSection
+EndGlobal
